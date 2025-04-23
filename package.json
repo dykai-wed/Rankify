@@ -1,0 +1,17 @@
+{
+  "name": "rankify",
+  "version": "1.0.0",
+  "description": "Localized Ranking Tool MVP",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase": "^10.8.0",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 
